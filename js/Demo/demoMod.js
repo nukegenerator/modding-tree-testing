@@ -1,13 +1,13 @@
 let modInfo = {
-	name: "The Modding Tree",
+	name: "The stinky Tree",
 	id: "modbase",
-	pointsName: "points",
+	pointsName: "poop",
 	modFiles: ["Demo/layers/c.js", "Demo/layers/f.js", "Demo/layers/a.js", "Demo/demoTree.js"],
 
 
 	discordName: "",
 	discordLink: "",
-	initialStartPoints: new Decimal (10), // Used for hard resets and new players
+	initialStartPoints: new Decimal (27), // Used for hard resets and new players
 	offlineLimit: 1,  // In hours
 }
 
